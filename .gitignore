@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# But not these directories & files...
+!.gitignore
+!minecraftinstance.json
+!/mods/
+!/profileImage/
