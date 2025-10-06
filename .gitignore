@@ -5,4 +5,5 @@
 !.gitignore
 !/mods/
 !/profileImage/
-
+!servers.dat
+!servers.dat_old
